@@ -1,0 +1,6 @@
+{
+    "name": "kaos/nosshconsole",
+    "require": {
+        "bit3/git-php": "^1.4"
+    }
+}
